@@ -1,0 +1,1 @@
+Given n, this program calculates the total number of abelian groups up to isomorphism of order n. This program struggles for especially large numbers in the millions. A possible solution would be to have a pre-made list of primes instead of calculating them every time.
